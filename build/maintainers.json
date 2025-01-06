@@ -135,6 +135,9 @@
   "/2023game/:category?/:tab?": [
     "xzzpig"
   ],
+  "/21caijing/channel/:name{.+}?": [
+    "nczitzk"
+  ],
   "/2cycd/:fid/:sort?": [
     "shelken"
   ],
@@ -6519,6 +6522,10 @@
   ],
   "/steam/appcommunityfeed/:appid/:routeParams?": [
     "NyaaaDoge"
+  ],
+  "/steam/curator/:id/:routeParams?": [
+    "naremloa",
+    "fenxer"
   ],
   "/steam/search/:params": [
     "moppman"
